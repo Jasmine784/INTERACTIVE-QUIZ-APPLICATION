@@ -16,10 +16,10 @@ MENTOR NAME: NEELA SANTOSH
 
 
 DESCRIPTION: 
-➤ Objective
+➤ Objective:
 Develop a dynamic quiz application using HTML, CSS, and JavaScript that enables users to answer questions, receive instant feedback, and track their scores.
 
-➤ Key Features
+➤ Key Features:
 1.	Dynamic Question Loading:
 o	Questions are presented one at a time, with options displayed as clickable buttons.
 o	Upon selection, users receive immediate feedback indicating whether their answer was correct or incorrect.
@@ -32,7 +32,7 @@ o	If the timer reaches zero, the quiz ends automatically.
 4.	Restart Functionality:
 o	After completing the quiz, users have the option to restart and attempt the quiz again.
 
-➤ Project Structure
+➤ Project Structure:
 •	index.html: Contains the structure of the quiz interface, including placeholders for questions, options, score, and timer.
 •	styles.css: Provides styling to ensure the quiz interface is visually appealing and user-friendly.
 •	script.js: Houses the JavaScript logic for:
@@ -66,6 +66,7 @@ JavaScript is the dynamic engine that powers the interactivity of the quiz appli
 •	Quiz Restart: Allowing users to restart the quiz without reloading the page.
 JavaScript's ability to manipulate the Document Object Model (DOM) enables real-time updates, creating a responsive and interactive user experience.
 
-➤ Conclusion
+➤ Conclusion:
+
 In summary, the development of this interactive quiz application has provided valuable insights into the integral roles of HTML, CSS, and JavaScript in web development. HTML laid the structural foundation, CSS enhanced the visual presentation, and JavaScript introduced interactivity, collectively ensuring a seamless and engaging user experience. This project not only reinforced my understanding of these core technologies but also highlighted their interdependence in creating dynamic web applications.
 
