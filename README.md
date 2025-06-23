@@ -21,25 +21,25 @@ Develop a dynamic quiz application using HTML, CSS, and JavaScript that enables 
 
 ➤ Key Features:
 1.	Dynamic Question Loading:
-o	Questions are presented one at a time, with options displayed as clickable buttons.
-o	Upon selection, users receive immediate feedback indicating whether their answer was correct or incorrect.
+	Questions are presented one at a time, with options displayed as clickable buttons.
+	Upon selection, users receive immediate feedback indicating whether their answer was correct or incorrect.
 2.	Scoring System:
-o	The application maintains a score counter that increments with each correct answer.
-o	At the end of the quiz, the user's total score is displayed.
+	The application maintains a score counter that increments with each correct answer.
+	At the end of the quiz, the user's total score is displayed.
 3.	Timer:
-o	A countdown timer is implemented, limiting the time available to answer each question.
-o	If the timer reaches zero, the quiz ends automatically.
+	A countdown timer is implemented, limiting the time available to answer each question.
+	If the timer reaches zero, the quiz ends automatically.
 4.	Restart Functionality:
-o	After completing the quiz, users have the option to restart and attempt the quiz again.
+	After completing the quiz, users have the option to restart and attempt the quiz again.
 
 ➤ Project Structure:
 •	index.html: Contains the structure of the quiz interface, including placeholders for questions, options, score, and timer.
 •	styles.css: Provides styling to ensure the quiz interface is visually appealing and user-friendly.
 •	script.js: Houses the JavaScript logic for:
-o	Managing the question flow.
-o	Handling user interactions.
-o	Updating the score and timer.
-o	Displaying results and enabling quiz restart.
+	Managing the question flow.
+	Handling user interactions.
+	Updating the score and timer.
+	Displaying results and enabling quiz restart.
 
 ➤ The Role of HTML: Structuring the Application
 HTML (HyperText Markup Language) serves as the skeleton of any web application. In the context of the quiz app, HTML defines the structure and layout of the content. Key elements include:
