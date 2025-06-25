@@ -71,9 +71,7 @@ JavaScript's ability to manipulate the Document Object Model (DOM) enables real-
 In summary, the development of this interactive quiz application has provided valuable insights into the integral roles of HTML, CSS, and JavaScript in web development. HTML laid the structural foundation, CSS enhanced the visual presentation, and JavaScript introduced interactivity, collectively ensuring a seamless and engaging user experience. This project not only reinforced my understanding of these core technologies but also highlighted their interdependence in creating dynamic web applications.
 
 OUTPUT:
-
-      
-![one](https://github.com/user-attachments/assets/675ea537-d128-447f-ad53-2ded1143d031)
+   ![one](https://github.com/user-attachments/assets/675ea537-d128-447f-ad53-2ded1143d031)
 ![TWO](https://github.com/user-attachments/assets/cdff65e0-30d2-4eef-bfb5-9518a42a3146)
 ![Three](https://github.com/user-attachments/assets/f6f8b98c-5f95-4e46-9c66-17ec95f79796)
 ![3](https://github.com/user-attachments/assets/dc3319be-1011-4137-9dce-25021b05910f)
