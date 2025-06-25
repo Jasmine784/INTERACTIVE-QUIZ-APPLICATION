@@ -73,9 +73,6 @@ In summary, the development of this interactive quiz application has provided va
 OUTPUT:
 
 ![one](https://github.com/user-attachments/assets/e91e4aac-9266-4655-a521-e09d3d564aed)
-
 ![TWO](https://github.com/user-attachments/assets/c862da53-0f72-4a05-84ab-d51403560d25)
-
 ![Three](https://github.com/user-attachments/assets/d01510da-7f9b-4685-a8df-d37084d838b5)
-
 ![3](https://github.com/user-attachments/assets/9ce8f8bc-86e8-4aa9-a089-81b176216358)
